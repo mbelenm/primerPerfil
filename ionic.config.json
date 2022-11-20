@@ -1,0 +1,7 @@
+{
+  "name": "primerPerfil",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
